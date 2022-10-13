@@ -26,4 +26,5 @@ Caso: Abogabot Descripción:
 
 ## buyer persona
 
+[buyer persona](https://github.com/Ayuya2001/practicas/blob/main/Carlos.Vergara.pdf)
 
