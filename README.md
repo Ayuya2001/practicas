@@ -26,4 +26,4 @@ Caso: Abogabot Descripción:
 
 ## buyer persona
 
-[PLANTILLA](https://github.com/Ayuya2001/practicas/files/9769531/Carlos.Vergara.pdf)
+[PLANTILLA](Carlos.Vergara.pdf)
