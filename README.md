@@ -23,3 +23,8 @@ Caso: Abogabot Descripción:
 
 - agilizar las demandas
 - web responsiva
+
+## buyer persona
+
+
+[Carlos Vergara.pdf](https://github.com/Ayuya2001/practicas/files/9769512/Carlos.Vergara.pdf)
