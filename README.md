@@ -28,3 +28,13 @@ Caso: Abogabot Descripción:
 
 [buyer persona](https://github.com/Ayuya2001/practicas/blob/main/Carlos.Vergara.pdf)
 
+## publico objetivo
+
+
+
+## UX
+
+
+
+## UI
+
