@@ -34,6 +34,7 @@ Caso: Abogabot Descripción:
 
 ## UX
 
+[wireframe](https://github.com/Ayuya2001/practicas/blob/main/wireframe%20abogabot.bmpr)
 
 
 ## UI
