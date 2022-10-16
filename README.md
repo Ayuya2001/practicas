@@ -41,3 +41,6 @@ Caso: Abogabot Descripción:
 
 ## UI
 
+
+https://www.notion.so/Publico-objetivo-e43dd26a21a04094a1e489719dfa1c56
+
