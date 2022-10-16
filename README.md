@@ -30,6 +30,8 @@ Caso: Abogabot Descripción:
 
 ## publico objetivo
 
+[Publico objetivo](https://github.com/Ayuya2001/practicas/blob/main/Target%20Audience.jpg)
+
 
 
 ## UX
